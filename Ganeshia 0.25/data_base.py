@@ -6,14 +6,11 @@ import os
 
 # Configurações do banco MySQL
 DB_CONFIG = {
-    'host': '26.137.96.26',
-    'user': 'felps',      # Usuário do MySQL
-    'password': '1303',   # Senha do MySQL
-    'database': 'fear'    # Nome do banco criado
+     # Nome do banco criado
 }
 
 # Caminho do arquivo JSON
-JSON_FILE_PATH = r'C:\Users\User\Trabalho\Ganeshia 0.25\operacoes.json'
+JSON_FILE_PATH = r''
 
 # Função para conectar ao banco de dados
 def connect_to_db():

@@ -18,11 +18,11 @@ from data_base import verificar_operacoes_passadas, atualizar_operacao_com_dados
 
 # Configuração dos detalhes da conta
 ACCOUNTS = [
-    {"account": 515969287, "password": '8rD4Fie@', "server": 'XPMT5-DEMO', "nome": 'Felipe', "lucros": 0}
+    {}
 ]
 
 # Configuração da chave da API da OpenAI
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = ''
 
 # Função para conectar ao MetaTrader 5
 def connect_to_mt5(account_info):
