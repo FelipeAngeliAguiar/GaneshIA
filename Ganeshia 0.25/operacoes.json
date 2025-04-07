@@ -1,0 +1,15 @@
+[
+    {
+        "Usu\u00e1rio": "Felipe",
+        "id_position": 1907070341,
+        "Justificativa": "Stop Loss: 170  \nTake Profit: 425  \nPre\u00e7o Limite: 131640  \nPre\u00e7o de Ativa\u00e7\u00e3o: 131640",
+        "Condi\u00e7\u00f5es": {
+            "tendencia": "Atendida p/ Baixa",
+            "macd": "Atendido p/ Baixa",
+            "bollinger_bands": "N\u00e3o atendida",
+            "volume": "Atendido p/ Baixa",
+            "candlestick": "Atendida p/ Baixa"
+        },
+        "Tipo de Opera\u00e7\u00e3o": "sell"
+    }
+]
